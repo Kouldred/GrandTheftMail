@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nikita_Tikhomirov\\source\\repos\\GrandTheftMail\\MailDelivery\\MailDelivery.csproj": {}
+    "C:\\Users\\Nikita_Tikhomirov\\source\\repos\\GrandTheftMail\\MailHandler\\MailHandler.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nikita_Tikhomirov\\source\\repos\\GrandTheftMail\\MailDelivery\\MailDelivery.csproj": {
+    "C:\\Users\\Nikita_Tikhomirov\\source\\repos\\GrandTheftMail\\MailHandler\\MailHandler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nikita_Tikhomirov\\source\\repos\\GrandTheftMail\\MailDelivery\\MailDelivery.csproj",
-        "projectName": "MailDelivery",
-        "projectPath": "C:\\Users\\Nikita_Tikhomirov\\source\\repos\\GrandTheftMail\\MailDelivery\\MailDelivery.csproj",
+        "projectUniqueName": "C:\\Users\\Nikita_Tikhomirov\\source\\repos\\GrandTheftMail\\MailHandler\\MailHandler.csproj",
+        "projectName": "MailHandler",
+        "projectPath": "C:\\Users\\Nikita_Tikhomirov\\source\\repos\\GrandTheftMail\\MailHandler\\MailHandler.csproj",
         "packagesPath": "C:\\Users\\Nikita_Tikhomirov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nikita_Tikhomirov\\source\\repos\\GrandTheftMail\\MailDelivery\\obj\\",
+        "outputPath": "C:\\Users\\Nikita_Tikhomirov\\source\\repos\\GrandTheftMail\\MailHandler\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
